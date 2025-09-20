@@ -66,7 +66,7 @@ function App() {
           fontWeight: "bolder",
         }}
       >
-       TODO LIST
+       Let's do our TASKS!
       </Row>
 
       <hr />
