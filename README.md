@@ -2,8 +2,9 @@ To-Do App
 
 A simple and interactive To-Do List application built with React and React-Bootstrap.
 
-![TODO List App!](/src/screenshots/todo-list1.png);
-![TODO List App!](/src/screenshots/todo-list2.png);
+![TODO List App!](/src/screenshots/todo-list1.png)
+
+![TODO List App!](/src/screenshots/todo-list2.png)
 
 
 Features:
