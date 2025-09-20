@@ -10,10 +10,15 @@ A simple and interactive To-Do List application built with React and React-Boots
 Features:
 
 Add Tasks: Easily add new tasks to your to-do list.
+
 Edit Tasks: Update existing tasks with a simple click.
+
 Delete Tasks: Remove tasks individually.
+
 Clear All: Remove all tasks with one click.
+
 User-friendly Interface: Clean and responsive design using React-Bootstrap.
+
 Keyboard Support: Press Enter to quickly add a task.
 
 Description
