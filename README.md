@@ -1,0 +1,16 @@
+To-Do App
+
+A simple and interactive To-Do List application built with React and React-Bootstrap.
+
+Features:
+
+Add Tasks: Easily add new tasks to your to-do list.
+Edit Tasks: Update existing tasks with a simple click.
+Delete Tasks: Remove tasks individually.
+Clear All: Remove all tasks with one click.
+User-friendly Interface: Clean and responsive design using React-Bootstrap.
+Keyboard Support: Press Enter to quickly add a task.
+
+Description
+
+This To-Do App allows users to manage their daily tasks efficiently. You can add new tasks, edit them by clicking the “Edit” button, and delete tasks individually or clear the entire list at once. The app uses React state to handle task data and React-Bootstrap for styling and layout.
