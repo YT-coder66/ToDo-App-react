@@ -4,6 +4,17 @@ A simple and interactive To-Do List application built with React and React-Boots
 
 ---
 
+## Author
+
+Yasin Tajali
+- GitHub: [YT-Coder66](https://github.com/YT-coder66/)
+
+- LinkedIn: [Linkedin-Page](https://www.linkedin.com/in/yasin-tajali-malek-jahan-reactdev/)
+
+- Email: pr0grmer6cd@gmail.com
+
+---
+
 ![TODO List App!](/src/screenshots/todo-list1.png)
 
 ![TODO List App!](/src/screenshots/todo-list2.png)
@@ -50,6 +61,14 @@ A simple and interactive To-Do List application built with React and React-Boots
 
 ## Running the Project
 - npm run dev
+
+---
+
+## License
+
+This project is licensed under the MIT License.
+
+---
 
 ## Description
 
