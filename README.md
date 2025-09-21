@@ -1,26 +1,56 @@
-To-Do App
+# To-Do App
 
 A simple and interactive To-Do List application built with React and React-Bootstrap.
+
+---
 
 ![TODO List App!](/src/screenshots/todo-list1.png)
 
 ![TODO List App!](/src/screenshots/todo-list2.png)
 
+---
 
-Features:
+## Project File Structure
+![TODO App Structure](/src/screenshots/ToDo-App-File.png)
 
-Add Tasks: Easily add new tasks to your to-do list.
+---
 
-Edit Tasks: Update existing tasks with a simple click.
+## Features
 
-Delete Tasks: Remove tasks individually.
+- Add Tasks: Easily add new tasks to your to-do list.
 
-Clear All: Remove all tasks with one click.
+- Edit Tasks: Update existing tasks with a simple click.
 
-User-friendly Interface: Clean and responsive design using React-Bootstrap.
+- Delete Tasks: Remove tasks individually.
 
-Keyboard Support: Press Enter to quickly add a task.
+- Clear All: Remove all tasks with one click.
 
-Description
+- User-friendly Interface: Clean and responsive design using React-Bootstrap.
+
+- Keyboard Support: Press Enter to quickly add a task.
+
+---
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14+)
+- npm or yarn
+
+## Installation
+
+## bash
+
+- git clone https://github.com/yourusername/react-weather-app.git
+- cd react-weather-app
+- npm install
+
+---
+
+## Running the Project
+- npm run dev
+
+## Description
 
 This To-Do App allows users to manage their daily tasks efficiently. You can add new tasks, edit them by clicking the “Edit” button, and delete tasks individually or clear the entire list at once. The app uses React state to handle task data and React-Bootstrap for styling and layout.
