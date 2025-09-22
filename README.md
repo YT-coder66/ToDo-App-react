@@ -4,14 +4,11 @@ A simple and interactive To-Do List application built with React and React-Boots
 
 ---
 
-## Author
+## Author Media
 
-Yasin Tajali
 - GitHub: [YT-Coder66](https://github.com/YT-coder66/)
 
 - LinkedIn: [Linkedin-Page](https://www.linkedin.com/in/yasin-tajali-malek-jahan-reactdev/)
-
-- Email: pr0grmer6cd@gmail.com
 
 ---
 
